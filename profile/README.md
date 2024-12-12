@@ -1,5 +1,7 @@
 # Welcome to Elevantiq 🚀
 
+![Elevantiq Logo](../brand/logo-colored.png "Elevantiq Logo")
+
 At Elevantiq, we specialize in building scalable, customizable, and developer-friendly 
 digital commerce solutions. Our mission is to empower enterprises to take full control 
 of their digital stack and deliver exceptional commerce experiences. There we are focusing 
